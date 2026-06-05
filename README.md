@@ -40,7 +40,7 @@ PC installed with SCILAB.
 
 # OUTPUT: 
 
-
+...
 # RESULT: 
 Thus design of BAND pass FIR digital filter using-Blackman-Window waveforms were plotted and output was verified.
 
