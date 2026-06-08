@@ -16,7 +16,8 @@ PC installed with SCILAB.
 
 
 # Calculations:
-<img width="1141" height="705" alt="1" src="https://github.com/user-attachments/assets/99c7bb1d-9f05-4bc6-be26-1bab33502840" />
+<img width="1600" height="1254" alt="WhatsApp Image 2026-06-08 at 13 11 35" src="https://github.com/user-attachments/assets/51b5a8b8-95a1-47e5-834f-d05e7f1966d3" />
+
 <img width="1600" height="730" alt="WhatsApp Image 2026-06-08 at 13 11 35 (1)" src="https://github.com/user-attachments/assets/960e1539-9114-4199-b98e-c3a00356731d" />
 
 
