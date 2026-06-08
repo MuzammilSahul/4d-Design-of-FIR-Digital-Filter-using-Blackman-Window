@@ -7,16 +7,17 @@
 PC installed with SCILAB. 
 
 # PROGRAM: 
-<img width="1141" height="705" alt="1" src="https://github.com/user-attachments/assets/99c7bb1d-9f05-4bc6-be26-1bab33502840" />
-<img width="1600" height="730" alt="WhatsApp Image 2026-06-08 at 13 11 35 (1)" src="https://github.com/user-attachments/assets/960e1539-9114-4199-b98e-c3a00356731d" />
+<img width="1141" height="705" alt="1" src="https://github.com/user-attachments/assets/b6f0ff3d-35da-4d62-b177-34112d0fbfb8" />
+
 
 
 # OUTPUT: 
-<img width="1600" height="1254" alt="WhatsApp Image 2026-06-08 at 13 11 35" src="https://github.com/user-attachments/assets/9c8bc600-6173-4be8-ba76-ba7ede3a76e2" />
+****<img width="996" height="1600" alt="WhatsApp Image 2026-06-08 at 13 05 23" src="https://github.com/user-attachments/assets/8dc4a3ec-2b2d-469d-adf4-255270cb419c" />
+
 
 # Calculations:
-<img width="1600" height="1254" alt="WhatsApp Image 2026-06-08 at 13 11 35" src="https://github.com/user-attachments/assets/3d7bd91f-89d1-4863-b636-9e8087b0826d" />
-<img width="1600" height="730" alt="WhatsApp Image 2026-06-08 at 13 11 35 (1)" src="https://github.com/user-attachments/assets/19f0f40c-1558-49b2-aae4-1387cdaf848f" />
+<img width="1141" height="705" alt="1" src="https://github.com/user-attachments/assets/99c7bb1d-9f05-4bc6-be26-1bab33502840" />
+<img width="1600" height="730" alt="WhatsApp Image 2026-06-08 at 13 11 35 (1)" src="https://github.com/user-attachments/assets/960e1539-9114-4199-b98e-c3a00356731d" />
 
 
 # RESULT: 
@@ -73,7 +74,10 @@ PC installed with SCILAB.
 
 
 # OUTPUT: 
+
 <img width="930" height="1600" alt="WhatsApp Image 2026-06-08 at 13 05 36 (1)" src="https://github.com/user-attachments/assets/533aa9e1-313d-42e1-8bd6-d3e530e4c6ef" />
+
+
 # Calculations:
 <img width="1600" height="1016" alt="WhatsApp Image 2026-06-08 at 13 11 36 (1)" src="https://github.com/user-attachments/assets/3998f95d-5f62-4151-9914-1d441f1f4026" />
 <img width="1126" height="1319" alt="WhatsApp Image 2026-06-08 at 13 11 36 (2)" src="https://github.com/user-attachments/assets/5f2b65d6-5ba3-4004-b18d-3d88b1c3e459" />
