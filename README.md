@@ -12,9 +12,11 @@ PC installed with SCILAB.
 
 
 # OUTPUT: 
-<img width="996" height="1600" alt="WhatsApp Image 2026-06-08 at 13 05 23" src="https://github.com/user-attachments/assets/45125ccd-0547-4fc9-9dd7-de3f4d003f9b" />
+<img width="1600" height="1254" alt="WhatsApp Image 2026-06-08 at 13 11 35" src="https://github.com/user-attachments/assets/9c8bc600-6173-4be8-ba76-ba7ede3a76e2" />
+
 # Calculations:
 <img width="1600" height="1254" alt="WhatsApp Image 2026-06-08 at 13 11 35" src="https://github.com/user-attachments/assets/3d7bd91f-89d1-4863-b636-9e8087b0826d" />
+<img width="1600" height="730" alt="WhatsApp Image 2026-06-08 at 13 11 35 (1)" src="https://github.com/user-attachments/assets/19f0f40c-1558-49b2-aae4-1387cdaf848f" />
 
 
 # RESULT: 
@@ -31,10 +33,13 @@ PC installed with SCILAB.
 
 
 # OUTPUT: 
-<img width="947" height="1600" alt="WhatsApp Image 2026-06-08 at 13 05 24" src="https://github.com/user-attachments/assets/959dc276-21ca-422e-8e1e-e08ca13c0849" />
+
+
+
 
 # Calculations:
-<img width="1124" height="1532" alt="WhatsApp Image 2026-06-08 at 13 11 35 (2)" src="https://github.com/user-attachments/assets/d559ffff-b50e-4320-8326-b8e1e79e238c" />
+<img width="1124" height="1532" alt="WhatsApp Image 2026-06-08 at 13 11 35 (2)" src="https://github.com/user-attachments/assets/decc589b-3cf8-40f1-b815-3320c9ba66e6" />
+
 
 # RESULT: 
 Thus design of HIGH pass FIR digital filter using-Blackman-Window waveforms were plotted and output was verified.
@@ -48,7 +53,8 @@ PC installed with SCILAB.
 <img width="922" height="722" alt="3" src="https://github.com/user-attachments/assets/aa90db9e-f746-4365-b659-566a556c1b7a" />
 
 # Calculations:
-<img width="1459" height="1600" alt="WhatsApp Image 2026-06-08 at 13 11 36" src="https://github.com/user-attachments/assets/00a72f4e-ca3b-4b0c-960c-6e4544f60c1f" />
+<img width="1459" height="1600" alt="WhatsApp Image 2026-06-08 at 13 11 36" src="https://github.com/user-attachments/assets/ddfcba45-8baf-46be-8c52-b587f17172b6" />
+
 
 # OUTPUT: 
 <img width="948" height="1599" alt="WhatsApp Image 2026-06-08 at 13 05 36" src="https://github.com/user-attachments/assets/74af2bd7-1ff2-41b3-a01e-be596a5207f1" />
@@ -69,8 +75,9 @@ PC installed with SCILAB.
 # OUTPUT: 
 <img width="930" height="1600" alt="WhatsApp Image 2026-06-08 at 13 05 36 (1)" src="https://github.com/user-attachments/assets/533aa9e1-313d-42e1-8bd6-d3e530e4c6ef" />
 # Calculations:
-<img width="1600" height="1016" alt="WhatsApp Image 2026-06-08 at 13 11 36 (1)" src="https://github.com/user-attachments/assets/c73e7482-8bd2-4595-9fd1-95119438d0d2" />
-<img width="1126" height="1319" alt="WhatsApp Image 2026-06-08 at 13 11 36 (2)" src="https://github.com/user-attachments/assets/a13204c3-b2cc-482b-8c77-5a9a86f7d9c0" />
+<img width="1600" height="1016" alt="WhatsApp Image 2026-06-08 at 13 11 36 (1)" src="https://github.com/user-attachments/assets/3998f95d-5f62-4151-9914-1d441f1f4026" />
+<img width="1126" height="1319" alt="WhatsApp Image 2026-06-08 at 13 11 36 (2)" src="https://github.com/user-attachments/assets/5f2b65d6-5ba3-4004-b18d-3d88b1c3e459" />
+
 
 
 
